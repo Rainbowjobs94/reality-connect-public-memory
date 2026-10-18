@@ -7,7 +7,7 @@ High-level, non-sensitive overview suitable for X/Grok context and timely posts.
 ## Current Focus Areas
 - **LT Social / Reality Connect platform**: Ongoing work on the social product boundary (web + mobile + API). Multiple iterations exist; primary private sources are being consolidated.
 - **Miracle Network & IA Guardian**: Evidence-first chain tools, paper-market simulations, agent hubs with safety principles (no unattended key control, funded-rewards verification).
-- **Agent skills & automation**: Public skill library available; hybrid agent patterns under private development with strong opt-in and human-review gates.
+- **Agent skills & automation**: Public skill library available; hybrid agent patterns under private development with strong opt-in and human-review gates. Exploring open-source peer-to-peer patterns for multi-agent coordination on coding and collaboration tasks (high-level research only).
 - **Efficiency patterns**: Applying change-detection and event-driven routines to reduce AI automation costs (see grok-bot-routines.md).
 - **Research direction**: Exploring staged, safety-first approaches to contribution tracking, provenance records, and social features. Emphasis on testnet hardening, audits, and legal review before any value-bearing functionality. Prefer established standards (EVM, OpenZeppelin patterns) and progressive decentralization.
 
@@ -17,9 +17,10 @@ High-level, non-sensitive overview suitable for X/Grok context and timely posts.
 - Public artifacts are limited to research notes, skill references, and high-level updates.
 - Emphasis on safety, verification, and non-signing/read-only designs where blockchain elements are involved.
 - Research materials stress independent audits, clear asset separation (reputation vs utility vs settlement), and no unsupported claims about value or guarantees.
+- High-level exploration of open-source tools that enable coding agents to coordinate without central servers.
 
 ## For X Posts
-- Prefer posts about progress on Reality Connect social features, agent-assisted workflows, efficient AI tooling, or high-level research on safer contribution/provenance systems.
+- Prefer posts about progress on Reality Connect social features, agent-assisted workflows, efficient AI tooling, or high-level research on safer contribution/provenance systems and open agent interoperability.
 - Avoid specific protocol mechanics, smart-contract details, earning models, issuance rules, or unreleased features.
 - Cadence goal: more frequent, accurate updates tied to real milestones.
 
