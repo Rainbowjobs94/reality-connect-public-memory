@@ -12,6 +12,7 @@ High-level, non-sensitive overview suitable for X/Grok context and timely posts.
 - **Research direction**: Exploring staged, safety-first approaches to contribution tracking, provenance records, and social features. Emphasis on testnet hardening, audits, and legal review before any value-bearing functionality. Prefer established standards (EVM, OpenZeppelin patterns) and progressive decentralization.
 - **Network identity & community layer**: Building around safer digital connection, recovery support, belonging, and practical pathways. Exploring ethical advertising and sponsorship models that prioritize shared value and community benefit over pure extraction (research stage only). Also researching community relationship language and structures that support chosen family, belonging, and safer intimate connection.
 - **Testnet exploration**: High-level research into token and smart-contract concepts on public testnets (no production deployment, no value claims).
+- **Mission pillars (high-level)**: Safer digital spaces, recovery and mental health support pathways, practical housing and economic empowerment ideas, and ethical models for shared value. Founder-driven work rooted in personal resilience and community focus.
 
 ## Status Notes (safe for posting)
 - Active development continues across social, agent, and network components.
@@ -23,6 +24,7 @@ High-level, non-sensitive overview suitable for X/Grok context and timely posts.
 - Ongoing research into disciplined agent workflows for market observation and strategy refinement in paper environments to support longer-term network goals.
 - Network roots include community-focused work and physical culture / strength traditions; current effort centers on digital safety and real-world support pathways.
 - Broader research continues on ethical economic models, community support structures, and staged pathways that prioritize human review and verification.
+- Origin story centers on resilience, arts background, and a long-term drive to build more humane recovery and connection tools.
 
 ## For X Posts
 - Prefer posts about progress on Reality Connect social features, agent-assisted workflows, efficient AI tooling, or high-level research on safer contribution/provenance systems and open agent interoperability.
